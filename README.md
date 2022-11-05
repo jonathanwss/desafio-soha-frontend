@@ -23,7 +23,6 @@ O projeto possuí as seguintes técnologias:
 ## Step 2
 # Getting Started with Vite
 O projeto foi criado usando o Vite --template react-ts
-`https://github.com/Vinicius-moura-code/Projeto` (Baixar)
 
 ## Step 3
 # Observação *
